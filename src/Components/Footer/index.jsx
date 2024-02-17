@@ -100,7 +100,7 @@ const Footer = () => {
           <p>allansf29@gmail.com</p>
         </Email>
         <Copyright>
-          <p>&copy; Copyright Allanv29 - 2023.</p>
+          <p>&copy; Copyright Allanv29 - 2024.</p>
         </Copyright>
         <SocialIcons>
           <SocialIconList className="social-icons-footer">
