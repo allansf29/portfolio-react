@@ -7,9 +7,15 @@ import nutricionistaImg from "../../assets/Images/aparecida-nutricionista.png";
 import ConsumindoApiImg from "../../assets/Images/consumindo API.png";
 import PortfolioAntigoImg from "../../assets/Images/PortfolioAntigo.png";
 import BootstrapImg from "../../assets/Images/bootstrap.png";
+import VidracariaImg from "../../assets/Images/vidraçaria.png";
 
 
 let data = [
+  {
+    imageSrc : VidracariaImg,
+    descripton : "Projeto em Desenvolvimento.",
+    link: ""
+  },
   {
     imageSrc : PortfolioAntigoImg,
     descripton : "Portfólio 1.0 criado no final de 2022, sendo o meu primeiro projeto criado do zero com HTML CSS e JAVASCRIPT.",
