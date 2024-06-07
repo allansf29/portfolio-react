@@ -13,8 +13,8 @@ import VidracariaImg from "../../assets/Images/vidraçaria.png";
 let data = [
   {
     imageSrc : VidracariaImg,
-    descripton : "Projeto em Desenvolvimento.",
-    link: "https://github.com/allansf29"
+    descripton : "Neste projeto foi desenvolvido um site para uma vidraçaria, criado com react e Styled Components.",
+    link: "https://vidracaria-react-allansf29s-projects.vercel.app"
   },
   {
     imageSrc : PortfolioAntigoImg,
