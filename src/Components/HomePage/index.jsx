@@ -105,10 +105,10 @@ const HomePagePresentationText = styled.p`
         overflow: hidden;
 
         border-right: 4px solid;
-        width: 12ch;
+        width: 12.2ch;
         white-space: nowrap;
         overflow: hidden;
-        animation: typing 2s steps(20), 
+        animation: typing 2s steps(22), 
         blinking 0.5s infinite step-end alternate;
 
         @keyframes typing {
