@@ -121,7 +121,7 @@ const AboutMe = () => {
       <AboutMeContainer>
         <AboutMeTitle data-anime="up">Sobre<CyanText> Mim</CyanText></AboutMeTitle>
         <AboutMeText data-anime="up">
-          Olá! Sou Allan Victor, estudante de Análise e Desenvolvimento de Sistemas na UniCesumar. Atualmente, estou ampliando minhas habilidades em HTML, CSS, JavaScript, Bootstrap, Git e MySQL por meio de cursos na Alura e Udemy. Meu foco está em Front-End usando React, especialmente em criar interfaces dinâmicas com Styled Components. Estou em transição de carreira, ansioso para adquirir mais conhecimento e contribuir em projetos desafiadores. Este é meu portfólio, refletindo minha jornada e paixão pelo desenvolvimento de software.
+          Olá! Sou Allan Victor, formado em Análise e Desenvolvimento de Sistemas na UniCesumar. Atualmente, estou ampliando minhas habilidades em HTML, CSS, JavaScript, Bootstrap, Git e MySQL por meio de cursos na Alura e Udemy. Meu foco está em Front-End usando React, especialmente em criar interfaces dinâmicas com Styled Components e Tailwind. Estou em transição de carreira, ansioso para adquirir mais conhecimento e contribuir em projetos desafiadores. Este é meu portfólio, refletindo minha jornada e paixão pelo desenvolvimento de software.
         </AboutMeText>
       </AboutMeContainer>
     </AboutMeSection>
