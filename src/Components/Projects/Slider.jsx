@@ -8,7 +8,7 @@ import ConsumindoApiImg from "../../assets/Images/consumindo API.png";
 import PortfolioAntigoImg from "../../assets/Images/PortfolioAntigo.png";
 import BootstrapImg from "../../assets/Images/bootstrap.png";
 import VidracariaImg from "../../assets/Images/vidraçaria.png";
-import FinanceAppImg from "../../assets/Images/FinanApp
+import FinanceAppImg from "../../assets/Images/FinanApp";
 
 
 let data = [
@@ -116,4 +116,5 @@ const SliderComp = () => {
 }
 
 export default SliderComp;
+
 
