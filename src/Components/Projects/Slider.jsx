@@ -8,9 +8,15 @@ import ConsumindoApiImg from "../../assets/Images/consumindo API.png";
 import PortfolioAntigoImg from "../../assets/Images/PortfolioAntigo.png";
 import BootstrapImg from "../../assets/Images/bootstrap.png";
 import VidracariaImg from "../../assets/Images/vidraçaria.png";
+import FinanceAppImg from "../../assets/Images/FinanApp
 
 
 let data = [
+  {
+    imageSrc : FinanceAppImg,
+    descripton : "Sistema de controle financeiro para acompanhamento de despesas mensais, com dashboards interativas e visualização clara dos gastos.",
+    link: "https://expenses-finanapp.vercel.app"
+  },
   {
     imageSrc : VidracariaImg,
     descripton : "Neste projeto foi desenvolvido um site para uma vidraçaria, criado com react e Styled Components.",
@@ -110,3 +116,4 @@ const SliderComp = () => {
 }
 
 export default SliderComp;
+
