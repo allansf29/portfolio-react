@@ -15,7 +15,7 @@ let data = [
   {
     imageSrc : FinanceAppImg,
     descripton : "Sistema de controle financeiro para acompanhamento de despesas mensais, com dashboards interativas e visualização clara dos gastos.",
-    link: "https://expenses-finanapp.vercel.app"
+    link: "https://expenses-finanapp.vercel.app/calendar"
   },
   {
     imageSrc : VidracariaImg,
@@ -116,6 +116,7 @@ const SliderComp = () => {
 }
 
 export default SliderComp;
+
 
 
 
