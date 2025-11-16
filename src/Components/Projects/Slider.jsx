@@ -9,6 +9,7 @@ import PortfolioAntigoImg from "../../assets/Images/PortfolioAntigo.png";
 import BootstrapImg from "../../assets/Images/bootstrap.png";
 import VidracariaImg from "../../assets/Images/vidraçaria.png";
 import FinanceAppImg from "../../assets/Images/FinanApp.png";
+import EcomImg from "../../assets/Images/EcomStore.jpg";
 
 
 let data = [
@@ -16,6 +17,11 @@ let data = [
     imageSrc : FinanceAppImg,
     descripton : "Sistema de controle financeiro para acompanhamento de despesas mensais, com dashboards interativas e visualização clara dos gastos.",
     link: "https://expenses-finanapp.vercel.app"
+  },
+  {
+    imageSrc : EcomImg,
+    descripton : "Layout de um e-commerce simples com abas de HOME, PRODUTOS e CONTATO com diversas funções.",
+    link: "https://e-commerce-ecomstore.vercel.app"
   },
   {
     imageSrc : VidracariaImg,
@@ -116,6 +122,7 @@ const SliderComp = () => {
 }
 
 export default SliderComp;
+
 
 
 
